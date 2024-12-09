@@ -4,6 +4,8 @@
 Simple Healpix nside 2048, in muK, float32 noise maps by jcarron Jan 26 2024.
 At the moment 100 per frequencies are available, but more can be generated if needed.
 
+UPDATE: 400 more were generated on Dec 9 2024 -- total now 500
+
 Use at your own risk !
 
 To read them, use
